@@ -27,13 +27,9 @@ a, a:visited, a:hover, a:active {
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
+
 html {
     font-family: "Lucida Sans", sans-serif;
-}
-
-.teste {
-    
-    background-color: lightblue;
 }
 
 .body {
@@ -62,18 +58,18 @@ html {
     background-color: #0099cc;
 }
 
-.myheader{
+.pageheader{
+    font-family:    'Raleway', sans-serif;
+    font-size:      50px;
+    height:         51px
+}
+
+.sectionheader{
     font-family:    'Raleway', sans-serif;
     font-size:      40px;
 }
 
-.mysubheader{
-    font-family:    'Raleway', sans-serif;
-    font-size:      30px;
-}
 
-
-.myheader2{
-    font-family:    'Raleway', sans-serif;
-    font-size:      50px;
+.smalltext{
+    font-size:      13px;
 }
